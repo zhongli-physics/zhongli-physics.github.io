@@ -116,9 +116,11 @@
 
 .highlight .il { color: #099; }
 
-.site-header { background-color: #900f0f; font-family: Heiti SC, Microsoft Yahei, PingFang SC, sans-serif; }
+.site-header { background-color: #900f0f; font-family: Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif; }
 
-.site-title, .page-link { color: white !important; }
+.site-title { color: white !important; }
+
+.page-link { color: white !important; }
 
 /** Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
